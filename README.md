@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zakariye Aden
-- 👀 I’m interested in Web Development and Cybersecurity 
+- 👀 I’m interested in Web Development, App Development and Cybersecurity 
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on Web Development and UX/UI Designer
 - 📫 How to reach me @Zakariyeadenn
